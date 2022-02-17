@@ -25,3 +25,6 @@ Created NN model with three layers.
 1st - 128 neurons.   
 2nd - 64 neurons    
 3rd - output layer contains number of neurons equal to number of intents to predict output intent with softmax (9 classes).   
+
+# Output:
+For output a small interactive dialog box is created that will take input from user and will identify the suitable answer for it from the intent list data.
